@@ -106,6 +106,14 @@
     gap: 1rem;
   }
 
+  .images {
+    order: -1;
+  }
+
+  .images img {
+    width: 70%;
+  }
+
   /* Footer */
   footer {
     padding: 2rem 0;
